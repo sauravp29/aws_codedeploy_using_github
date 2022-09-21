@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /var/www/html
-sudo  sh Demo1.0.sh
+sudo ./Demo1.0.sh
